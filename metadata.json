@@ -1,0 +1,7 @@
+{
+  "name": "Offline Coaching Center Manager",
+  "description": "An offline coaching center management system featuring batch scheduling, automated status tracking, frictionless attendance, parent WhatsApp alerts, and Google Contacts sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
